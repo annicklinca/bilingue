@@ -1,0 +1,4 @@
+[05-Feb-2018 23:43:46 Europe/Rome] PHP Warning:  scandir(../source/): failed to open dir: No such file or directory in /home/ekimina/public_html/construction/admin/filemanager/dialog.php on line 626
+[05-Feb-2018 23:43:46 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/ekimina/public_html/construction/admin/filemanager/dialog.php on line 626
+[05-Feb-2018 23:43:46 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/ekimina/public_html/construction/admin/filemanager/dialog.php on line 638
+[05-Feb-2018 23:43:46 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/ekimina/public_html/construction/admin/filemanager/dialog.php on line 1182
